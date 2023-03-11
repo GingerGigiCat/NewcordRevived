@@ -5,7 +5,7 @@
 [download-link]: https://raw.githubusercontent.com/SquirrelKiev/NewcordRevived/main/src/newcord.theme.css
 [support-link]: https://github.com/SquirrelKiev/NewcordRevived/issues
 
-A revival of a colorful and customizable BetterDiscord/Powercord theme inspired by the first page of Discord's website.
+A revival of a colorful and customizable BetterDiscord/Replugged theme inspired by the first page of Discord's website.
 
 ![Banner](https://raw.githubusercontent.com/SquirrelKiev/NewcordRevived/main/icons/github/NewcordBanner.png)
 
@@ -13,7 +13,7 @@ A revival of a colorful and customizable BetterDiscord/Powercord theme inspired 
 
 To download the theme on BetterDiscord, go on this [page][download-link], right-click, click "save as" and save it in your BetterDiscord themes folder. 
 
-For Powercord, `git clone` this theme into your themes directory and you should be good. 
+[![Install in Replugged](https://img.shields.io/badge/-Install%20in%20Replugged-blue?style=for-the-badge&logo=none)](https://replugged.dev/install?identifier=SquirrelKiev/NewcordRevived&source=github)
 
 ## Features to come (soontm)
 
