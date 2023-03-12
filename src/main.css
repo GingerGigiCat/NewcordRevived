@@ -783,9 +783,11 @@ button:not(.searchBarComponent-3N7dCG):not(.colorPickerSwatch-RTUGRR):not(.bd-bu
     filter: none;
     opacity: 0.3;
 }
+/*
 .emojiItem-277VFM .imageLoading-2uloYN {
     display: none;
 }
+*/
 .unicodeShortcut-3N8oDe {
     background-color: var(--background-secondary-alt);
 }
@@ -1733,6 +1735,7 @@ path[d="M7.02799 0.333252C3.346 0.333252 0.361328 3.31792 0.361328 6.99992C0.361
   padding-left: 0;
   width: 100%;
 }
+/*
 .chatContent-3KubbW
   .form-3gdLxP
   .channelTextArea-1FufC0
@@ -1743,6 +1746,8 @@ path[d="M7.02799 0.333252C3.346 0.333252 0.361328 3.31792 0.361328 6.99992C0.361
   ~ .expression-picker-chat-input-button:not(:nth-child(4)) {
   display: none;
 }
+*/
+
 .chatContent-3KubbW
   .form-3gdLxP
   .channelTextArea-1FufC0
